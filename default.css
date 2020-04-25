@@ -1,0 +1,25 @@
+table {
+    border: 1px solid black;
+}
+
+tr {
+    border: solid 1px black;
+}
+
+.modal {
+    display: block;
+    margin: 0 auto;
+    top: 40px;
+    width: 600px;
+    z-index: 9999;
+}
+
+.modal * {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    vertical-align: middle;
+}
