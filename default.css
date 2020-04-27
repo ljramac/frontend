@@ -6,6 +6,10 @@ tr {
     border: solid 1px black;
 }
 
+th {
+    cursor: pointer;
+}
+
 .modal {
     display: block;
     margin: 0 auto;
